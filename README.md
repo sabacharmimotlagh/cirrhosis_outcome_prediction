@@ -4,7 +4,7 @@
 
 Cirrhosis, also known as liver cirrhosis or hepatic cirrhosis, and end-stage liver disease, is the impaired liver function caused by the formation of scar tissue known as fibrosis due to damage caused by liver disease.
 
-![alt text](Cirrhosis.tiff)
+![alt text](Cirrhosis.jpg)
 
 ## Description
 
